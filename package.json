@@ -1,0 +1,22 @@
+{
+    "name": "ng-universal-demo",
+    "version": "1.0.0",
+    "description": "Ivy demo ngfor error",
+    "scripts": {
+        "server": "node server.js"
+    },
+    "engines": {
+        "node": ">=8.0.0"
+    },
+    "author": "Marek Bukovský<marek.bukovsky@asseco-ce.com>",
+    "license": "MIT",
+    "dependencies": {},
+    "devDependencies": {
+        "@types/node": "12.0.4",
+        "@types/connect": "3.4.32",
+        "yargs": "13.2.4",
+        "connect": "3.7.0",
+        "connect-gzip-static": "2.1.1",
+        "connect-history-api-fallback": "1.6.0"
+    }
+}
